@@ -17,6 +17,7 @@ Le but du projet est de créer une plateforme WEB qui permet de gérer plusieurs
     * Interruption
     * Hypnogramme
  
+Les programmes d'entrainements et de nutrition peuvent être importer par le coach et visionné par les praticants directement depuis l'application. 
 
 ## Utilisation
 La plateforme Web permet de s'enregistrer soit en tant que praticant, soit en tant que coach.
@@ -43,7 +44,7 @@ Technologies utilisées :
 * PHP
 * Javascript
 * SQL
-* RactJS
+* [RactJS](https://fr.reactjs.org/)
 * [Chart.js](https://www.chartjs.org/)
 
 
