@@ -1,0 +1,19 @@
+h1 {
+	color: darkblue;
+	font-size:60px;
+}
+
+body {
+	background: #f4f4f4;
+}
+
+#demo{
+	font-size: 12px;
+	color: darkblue;
+}
+@media(max-width:500px){
+	#profile_pic{
+		width:100px;
+		height: 100px;
+	}
+}

@@ -10,12 +10,6 @@ Le but du projet est de créer une plateforme WEB qui permet de gérer plusieurs
 * Date et durée de l'entrainement
 * Nombre de total de calories brulées 
 * Nombre de calories active
-(Optionnel)
-* Les données relatives au sommeil 
-    * Pulsation cardiaque
-    * Cycles de sommeil
-    * Interruption
-    * Hypnogramme
  
 Les programmes d'entrainements et de nutrition peuvent être importer par le coach et visionné par les praticants directement depuis l'application. 
 
@@ -39,12 +33,11 @@ On peut accéder aux données de tous nos praticants avec les courbes de progres
 ## Environnement
 Technologies utilisées :
 
-* HTML5
-* CSS3 
-* PHP
+* Python Flask
+* HTML
+* CSS
 * Javascript
 * SQL
-* [RactJS](https://fr.reactjs.org/)
 * [Chart.js](https://www.chartjs.org/)
 
 
